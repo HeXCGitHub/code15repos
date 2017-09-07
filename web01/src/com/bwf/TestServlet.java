@@ -30,6 +30,7 @@ public class TestServlet extends HttpServlet {
 	 * */
 	
     public TestServlet() {
+    	System.out.println("**********");
         super();
     }
 
